@@ -1,0 +1,14 @@
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\bin\Debug\Dominio.MainModule.dll
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\bin\Debug\Dominio.MainModule.pdb
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\bin\Debug\Dominio.Core.Entities.dll
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\bin\Debug\Infraestructura.Data.MySQL.dll
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\bin\Debug\MySql.Data.dll
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\bin\Debug\Google.Protobuf.dll
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\bin\Debug\Dominio.Core.Entities.pdb
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\bin\Debug\Infraestructura.Data.MySQL.pdb
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\bin\Debug\MySql.Data.xml
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\obj\Debug\Dominio.MainModule.csprojAssemblyReference.cache
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\obj\Debug\Dominio.MainModule.csproj.CoreCompileInputs.cache
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\obj\Debug\Dominio.MainModule.csproj.CopyComplete
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\obj\Debug\Dominio.MainModule.dll
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.MainModule\obj\Debug\Dominio.MainModule.pdb

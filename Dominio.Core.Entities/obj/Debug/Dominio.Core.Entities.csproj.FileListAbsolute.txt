@@ -1,0 +1,6 @@
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.Core.Entities\bin\Debug\Dominio.Core.Entities.dll
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.Core.Entities\bin\Debug\Dominio.Core.Entities.pdb
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.Core.Entities\obj\Debug\Dominio.Core.Entities.csprojAssemblyReference.cache
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.Core.Entities\obj\Debug\Dominio.Core.Entities.csproj.CoreCompileInputs.cache
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.Core.Entities\obj\Debug\Dominio.Core.Entities.dll
+E:\Sistema CIUNAC2019\CIUNAC2019\Dominio.Core.Entities\obj\Debug\Dominio.Core.Entities.pdb
